@@ -29,6 +29,7 @@ int main(int argc, char const *argv[])
         {
             *tree2expr(ans, buf) = 0;
             printf("< %s\n\n", buf);
+            parser_clear_tree(ans);
         }
     }
     return 0;
