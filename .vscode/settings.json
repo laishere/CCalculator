@@ -1,0 +1,21 @@
+{
+    "files.encoding": "gbk",
+    "C_Cpp.default.includePath": [
+        "src/main"
+    ],
+    "files.associations": {
+        "*.cjson": "jsonc",
+        "*.wxss": "css",
+        "*.wxs": "javascript",
+        "map.h": "c",
+        "set.h": "c",
+        "queue.h": "c",
+        "hash_map": "c",
+        "type_traits": "c",
+        "xmemory": "c",
+        "test.h": "c",
+        "grammar.h": "c",
+        "crtdbg.h": "c",
+        "vcruntime_new_debug.h": "c"
+    }
+}
